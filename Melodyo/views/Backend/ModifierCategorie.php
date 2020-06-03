@@ -105,7 +105,10 @@
     <!-- End of Sidebar -->
     <?php 
             $idCategorie=$_REQUEST['idCategorie'];
-          
+            
+    
+    
+    
             ?>
     <!-- Content Wrapper -->
     <div id="content-wrapper" class="d-flex flex-column">
